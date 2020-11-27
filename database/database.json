@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone 12",
+      "init-price": 30,
+      "click-cost": 50,
+      "bid-price": 1,
+      "duration": "2min"
+    }
+  ]
+}
